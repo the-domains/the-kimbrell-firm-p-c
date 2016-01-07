@@ -6,27 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: Driving Tips for those who consume alcohol
-datePublished: '2015-12-25T04:03:10.159Z'
-dateModified: '2015-12-25T04:02:36.155Z'
+datePublished: '2016-01-07T23:42:08.867Z'
+dateModified: '2015-12-25T05:09:40.679Z'
 title: 2015 Holiday Driving Tips
 author: []
+sourcePath: _posts/2015-12-25-2015-holiday-driving-tips.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-25-2015-holiday-driving-tips.md
-published: true
 url: 2015-holiday-driving-tips/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/910d7ef9-fe4c-4b17-9c50-faccd76e0147.jpg)
 
-If you have been consuming alcohol or narcotic drugs this 2015 Holiday season, are driving a motor vehicle and find yourself being stopped by a police officer, there are several considerations for you to take into account...... 
-
-Unfortuantely, if you are stopped and an officer believes you are DUI, there is no hard and fast answer as to how one should respond as each instance is different. However, there are some guiding principles one should follow: 
+If you have been consuming alcohol or narcotic drugs this 2015 Holiday season, are driving a motor vehicle and find yourself being stopped by a police officer, there are several considerations for you to take into account......  Unfortuantely, if you are stopped and an officer believes you are DUI, there is no hard and fast answer as to how one should respond as each instance is different. However, there are some guiding principles one should follow: 
 
 1) Be reasonably polite and courteous with the officer. Common decency goes a long way folks! 
 
