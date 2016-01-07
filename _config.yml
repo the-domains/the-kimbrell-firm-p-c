@@ -1,29 +1,41 @@
-name: 'The Kimbrell Firm, P.C.'
-favicon: null
-layout_spectrum: 0.1726781614124775
-typography_spectrum: 0.3052828595973551
 title: 'Atlanta DUI Attorney and Georgia Criminal Defense '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.0625
+  brandStrength: 0.5625
+  rhythmicContrast: 0.5
   brandColors:
     - '#90939c'
     - '#2c1d3e'
     - '#ced4e2'
     - '#545454'
     - '#c34f2f'
-  brandStrength: 0.5625
   lightness: 0.5610995423048735
-  saturation: 0.0625
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: 'The Kimbrell Firm, P.C.'
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7365592
+layout_spectrum: 0.3351254
